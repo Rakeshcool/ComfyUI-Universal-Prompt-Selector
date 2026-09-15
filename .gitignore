@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+node.zip
+.ruff_cache/
+.upsel_test_user/
