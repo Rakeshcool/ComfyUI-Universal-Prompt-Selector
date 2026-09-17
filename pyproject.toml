@@ -1,7 +1,7 @@
 [project]
-name = "comfyui-universal-prompt-selector"
+name = "ComfyUI-Universal-Prompt-Selector"
 description = "Reusable system prompts as first-class ComfyUI assets: a persistent prompt library with Edit/New/Delete on the node, a selector that outputs the prompt as STRING, and a combiner that merges system+user prompts through configurable templates."
-version = "1.0.2"
+version = "1.0.0"
 license = "MIT"
 
 # classifiers = [
